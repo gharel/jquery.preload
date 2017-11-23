@@ -1,4 +1,4 @@
-# jquery.preload.js
+# jquery.preload
 A plugin for jQuery to preload images like image use for hover effect
 
 ## Use
